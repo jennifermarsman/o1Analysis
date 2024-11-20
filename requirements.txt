@@ -1,0 +1,4 @@
+notebook
+openai
+python-dotenv
+azure.identity
